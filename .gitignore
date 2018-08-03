@@ -1,5 +1,9 @@
+*.*,*
 *.bak
-*.p01
-*.p02
-*.p03
 *.log
+*.jrl
+*.dat
+*.original
+*.dml
+*.dbk
+*.xml
